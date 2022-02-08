@@ -1,0 +1,2 @@
+g = int(input("enter the kilometers")
+print("centimeters = ", 100000*g)
